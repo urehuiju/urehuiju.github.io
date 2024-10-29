@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urehuiju.github.io/sitemap_index.urehuiju
